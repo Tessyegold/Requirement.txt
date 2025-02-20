@@ -1,0 +1,4 @@
+sckit-learn
+matplotlib
+nltk
+opencv-python
